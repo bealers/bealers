@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bealers
-- 👀 I’m interested in web3 & generative art
-- 🌱 I’m currently learning React & p5.js
+- 👀 I’m a PHP dev
+
 - 📫 bealers@siftware.com
 
 <!---
