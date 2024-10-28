@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @bealers
-- 👀 I’m a PHP dev
+- 👀 I’m a PHP dev. 
+
+- I work at [Siftware](siftware.com), where we have been building complex PHP applications for approaching 20 years.
 
 - 📫 bealers@siftware.com
 
