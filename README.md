@@ -1,6 +1,6 @@
 👋 Hi, I’m @bealers
 
-👀 I’m a PHP dev. 
+👀 I’m a PHP dev & server guy. Currently learning TypeSrcipt. Bullish decentralised crypto + AI.
 
 I work at [Siftware](https://siftware.com), where we have been building and maintaining complex PHP applications for close to 20 years.
 
