@@ -1,4 +1,4 @@
-👋 Hi, I’m @bealers
+👋 Hi, I’m Darren Beale (@bealers on social)
 
 👀 I’m a PHP dev & server guy. Currently learning TypeScript. Bullish decentralised crypto + AI.
 
