@@ -4,11 +4,11 @@
   "wallets": [
     {
       "chain": "ethereum",
-      "address": "0x3618de44f177C40C4ccfBB00a7EC4FFd3474f681"
+      "address": "0x13f7B688C046D0b08039Da20580C331839a7CCed"
     },
     {
       "chain": "solana",
-      "address": "FrqrvW3qYQRrP7Hz2djB5zLKDGsffRN61qxEogA2LANs"
+      "address": "EteJHGm4DJiUFrJZBvjA6LCupvcnqVoPk8DWpMneRx7Z"
     }
   ]
 }
